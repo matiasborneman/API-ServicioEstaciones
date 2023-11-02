@@ -1,7 +1,8 @@
 # servicioEstaciones
 
+# SERVICIO DE ALQUILER ESTACIONES
 
-
+Este proyecto se gestiona todo lo relacionado a la gestion de las estaciones donde se puede alquilar una bicicleta, recibiendo las peticiones redireccionadas desde el api Gateway.
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
